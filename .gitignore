@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+venv/
+.venv/
+backend/venv/
+
+# Node
+node_modules/
+.next/
+out/
+build/
+dist/
+.dist/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# VSCode / IDE
+.vscode/
+.idea/
+
+# Local uploads and cache
+uploads/
+*.log
+
